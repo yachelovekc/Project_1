@@ -1,0 +1,5 @@
+Input Values | Target Freq (%)  | Actual Freq (%)  | Discrepancy (%)
+           1 |          16.6667 |          16.6092 |          0.0575
+           2 |          33.3333 |          33.3036 |          0.0297
+           3 |          50.0000 |          50.0872 |          0.0872
+Max Frequency Discrepancy: 0.0872 %
